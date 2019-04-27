@@ -13,3 +13,18 @@
 	width: 100%;
 	height: 2.5rem;				/* Footer height */
 }
+
+.far fa-envelope {
+	width: 24px !important;
+	height: 24px !important;
+}
+
+.fab fa-github {
+	width: 24px !important;
+	height: 24px !important;
+}
+
+.fab fa-linkedin {
+	width: 24px !important;
+	height: 24px !important;
+}
